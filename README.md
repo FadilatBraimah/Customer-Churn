@@ -3,7 +3,7 @@
 
 ## What is customer churn?
 Customer churn (or customer attrition) refers to the loss of customers or subscribers for any reason at all.
-**Customer Churn Rate** in its broadest sense, is a measure of the number of individuals or items moving out of a collective group over a specific period. It is one of two primary factors that determine the steady-state level of customers a business will support.Data Analysis Process
+**Customer Churn Rate** in its broadest sense, is a measure of the number of individuals or items moving out of a collective group over a specific period. It is one of two primary factors that determine the steady-state level of customers a business will support.
 
 ## Data Analysis Process
 A series of steps must be carried out in order to interpret this information. Finding these procedures is crucial because each step is important in ensuring that the data is processed correctly in order to provide relevant and useful information. The steps I did in this process are listed below.:
